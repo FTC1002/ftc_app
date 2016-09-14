@@ -26,3 +26,8 @@ build/
 
 *ASUS_PC_01*
 
+# Gradle
+gradle/caches
+gradle/daemon
+gradle/native
+gradle/wrapper/dists
